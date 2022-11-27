@@ -5,7 +5,7 @@
     transition: all 0.5s;
 }
 
-.card img {
+.card_index img {
     width: 100%;
     min-height: 250px;
     max-height: 300px;
@@ -18,8 +18,6 @@
     align-items: center;
 }
 
-.mapa img {
+.card-img-top{
     height: 500px;
-    width: 800px;
-    margin-left: 350px;
 }
